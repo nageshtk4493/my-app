@@ -15,6 +15,7 @@ public class Calculator {
 	public int multiply(int i, int j){
 		return i*j;
 	}
+	string name = null
 	
 	public int reminder(int i, int j){
 		return i%j;
