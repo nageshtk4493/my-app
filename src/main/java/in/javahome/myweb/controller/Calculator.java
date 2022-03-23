@@ -10,12 +10,14 @@ public class Calculator {
 	 * @return int
 	 */
 	public int add(int i, int j){
+		String name = null;
+		name.toString();
 		return i+j;
 	}
 	public int multiply(int i, int j){
 		return i*j;
 	}
-	string name = null
+	
 	
 	public int reminder(int i, int j){
 		return i%j;
